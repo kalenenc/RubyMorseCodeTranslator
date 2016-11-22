@@ -1,3 +1,3 @@
 # Morse Code Translator - Ruby
 
-A morse code translator written in ruby.
+The TDD files for a morse code translator written in Ruby.
